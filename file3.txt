@@ -1,2 +1,3 @@
 third file for git
 still trying to understand git
+edited from mac book safari
