@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello 
 this is
 first file for git
@@ -5,3 +6,6 @@ first file for git
 make more changes in this file
 to understand git prorcess
 edited file code
+=======
+edit for git headec
+>>>>>>> 26e5199 (git git git)
