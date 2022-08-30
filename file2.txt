@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this
 is second file for
 git
+=======
+hello world
+>>>>>>> b3652fb (after new key)
