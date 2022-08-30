@@ -4,4 +4,8 @@ is second file for
 git
 =======
 hello world
+<<<<<<< HEAD
 >>>>>>> b3652fb (after new key)
+=======
+another try
+>>>>>>> cc4beaf (try try)
