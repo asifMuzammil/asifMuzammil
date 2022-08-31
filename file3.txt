@@ -2,3 +2,11 @@ third file for git
 still trying to understand git
 edited from mac book safari
 i pull it from repo done
+these command use to rebase git hub repo most usefull commands
+git rebase --continue
+git merge file2.txt
+git pull --rebase origin master
+git pull --rebase origin master
+git commit --amend last try
+git pull origin master --allow-unrelated-histories
+git pull origin master --force
