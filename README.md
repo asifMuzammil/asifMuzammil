@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @asifMuzammil
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Linux Docker
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm a <b>Certified Kubernetes Application Developer (CKAD)</b>
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning <b>Linux</b>, <b>Docker</b>, <b>Kubernetes</b>, <b>AWS</b>
+- 💞️ I’m looking to collaborate on <b>DevOps-related</b> projects
 - 📫 How to reach me ...
 
 <!---
