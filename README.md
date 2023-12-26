@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifmuzammil" alt="asifmuzammil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/masifmuzammil" target="blank"><img src="https://img.shields.io/twitter/follow/masifmuzammil?logo=twitter&style=for-the-badge" alt="masifmuzammil" /></a> </p>
+<p align="left"> <a href="https://twitter.com/masi`fmuzammil" target="blank"><img src="https://img.shields.io/twitter/follow/masifmuzammil?logo=twitter&style=for-the-badge" alt="masifmuzammil" /></a> </p>
 
 - 🔭 I’m currently working on **Camsec**
 
@@ -24,6 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/masifmuzammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masifmuzammil" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/asif.areeb.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/asif.areeb.3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/asif-muzammil-hussain-b6742441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/asif-muzammil-hussain-b6742441" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
