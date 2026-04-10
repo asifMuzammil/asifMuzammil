@@ -14,7 +14,6 @@ I am a dedicated **DevOps Engineer** specialized in building secure and observab
     - **CKAD** (Certified Kubernetes Application Developer)
     - **AWS Certified Cloud Practitioner (CLF-C02)**
 - 🌟 **Community & Recognition:** - Selected as an **AWS Community Builder** in the **Containers** category.
-    - [cite_start]Officially signed the **Individual Nondisclosure Agreement (NDA)** with Amazon on **March 04, 2026**[cite: 2, 3].
 - 🛡️ **Recent Training:** Completed **'CyberSavvy: Navigating Linux & Essential CyberSecurity'** (Feb 2026).
 - 🌱 **Learning Focus:** Currently mastering **Python for Data Science and Automation** to enhance infrastructure analytics.
 - 💬 **Ask me about:** Kubernetes (K8s), Docker, Linux, and Observability (Prometheus/Grafana/Loki).
